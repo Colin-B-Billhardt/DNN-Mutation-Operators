@@ -7,8 +7,8 @@ MNISTModel file follows a tutorial presented on Kaggle. [kaggle-MNIST-tutorial](
 
 
 
+mnistDecisionTree:
 
-MNISTDecisionTree: 
 
 Split into different code blocks, each executing or visualizing a single task. 
 
@@ -33,5 +33,14 @@ The next code blocks are the building of the decision tree followed by the vizul
 The next code block extracts all decision tree paths and (currectly) outputs them to console. Following this, the next code block outputs all incorrect decision tree paths. 
 
 The final code block is my attempt to implement contraint solving.
+
+
+mnistModel: 
+
+This is the code used to train and save the model that is used in the mnistDecisionTree code. 
+-Make sure to change the file paths to your own relevant file paths
+
+
+
 
 
