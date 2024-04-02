@@ -38,7 +38,7 @@ The final code block is my attempt to implement contraint solving.
 mnistModel: 
 
 This is the code used to train and save the model that is used in the mnistDecisionTree code. 
--Make sure to change the file paths to your own relevant file paths
+-Make sure to change the file paths to your own relevant file paths.
 
 
 
